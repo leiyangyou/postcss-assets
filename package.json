@@ -34,7 +34,7 @@
     "assets": "^3.0.0",
     "bluebird": "^3.5.0",
     "postcss": "^6.0.10",
-    "postcss-functions": "^3.0.0"
+    "postcss-functions": "https://github.com/leiyangyou/postcss-functions.git"
   },
   "devDependencies": {
     "ava": "^0.22.0",
