@@ -3642,7 +3642,7 @@ posix-character-classes@^0.1.0:
 
 "postcss-functions@https://github.com/leiyangyou/postcss-functions.git":
   version "3.0.0"
-  resolved "https://github.com/leiyangyou/postcss-functions.git#bf35466a59ae4bed8fc8f69653aec019536396d9"
+  resolved "https://github.com/leiyangyou/postcss-functions.git#cffd42a046ea4cf539782bb9671afab6ec72edbb"
   dependencies:
     glob "^7.1.2"
     object-assign "^4.1.1"
